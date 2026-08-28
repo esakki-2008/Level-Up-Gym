@@ -1,0 +1,7 @@
+{
+  "name": "Level Up Gym",
+  "description": "Professional gym and fitness center in Dombivli East, Maharashtra offering strength training, cardio, personal training, and modern fitness equipment.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
